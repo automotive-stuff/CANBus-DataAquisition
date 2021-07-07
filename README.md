@@ -7,7 +7,7 @@
 
 ----------------------------------------------------------------------
 
-### Project Description
+### Description
 
 Implement a high speed data acquisition system using CAN bus and perform tasks according to the data received.
 The system will collect data from sensors over multiple nodes and transmit the data over the CAN bus. 
@@ -17,27 +17,27 @@ Perform hardware filtering to manage the data packets on the CAN bus.
 
 ----------------------------------------------------------------------
 
-### Aim of the Project
+### Aim
 The aim of the project is to primarily investigate how the CAN Bus works. 
 
 
 ----------------------------------------------------------------------
 
-### Project Diagrams
+### Diagrams
 
 
-#### Project Block Diagram(s)
+#### Block Diagram(s)
 ![Block Diagram](Docs/Img/BlockDiagram.png)
 
-#### Project UML Diagrams
+#### UML Diagrams
 
-#### Project Circuit Diagram (Optional)
+#### Circuit Diagram(s)
 ![MCP2515 Example System](Docs/Img/MCP2515-ExampleSystem.png)
 
 
 ----------------------------------------------------------------------
 
-### Project Construction (Optional)
+### Project Construction
 
 ----------------------------------------------------------------------
 
