@@ -12,33 +12,15 @@ CRX should be connected to GPIO22 (defined by RX_GPIO_NUM)
 
 ------------------
 
-## Build & Test
+## Build & Run
 
-### Pull in submodules
-
-```sh
-$ git submodule update --init --recursive
-```
-
-### CMake building
+### ESP-IDF 
 
 ```sh
-$ mkdir build && cd build
-$ cmake .. -DBUILD_TESTS=ON -DCMAKE_BUILD_TYPE=Debug
-$ make
+$ idf.py menuconfig
+$ idf.py buid flash monitor
 ```
 
-### Test
-
-```sh
-$ ./build/test/RPiCAN-tests
-```
-
-
-### Run
-```sh
-$ ./build/RPiCAN
-```
 
 ## References
 1. [ESP32 API Reference CAN](https://docs.espressif.com/projects/esp-idf/en/latest/esp32/api-reference/peripherals/twai.html)
