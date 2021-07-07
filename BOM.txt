@@ -1,0 +1,14 @@
+STM32F4 Microcontroller
+Raspberry Pi or Beaglebone Black
+ESP32 Microcontroller
+
+(4) MCP2551 CAN Transceivers
+
+(4) 120 ohm resistors
+
+MPU6050
+
+GPS Module
+
+SD Card
+

@@ -1,0 +1,6 @@
+[submodule "RPi/libgps"]
+	path = RPi/libgps
+	url = https://github.com/wdalmut/libgps.git
+[submodule "googletest"]
+	path = RPi/googletest
+	url = https://github.com/google/googletest.git
